@@ -16,7 +16,7 @@ Hash routes allow deep links on a static host. Catalog controls serialize into t
 
 ## Deployment
 
-Serve the contents of `dist/` as static files. For GitHub Pages, either select a branch containing those files at its root or publish `dist/` as a Pages artifact from a workflow.
+GitHub Pages serves the static files from the root of the `gh-pages` branch. The source files are in `dist/` on `main`.
 
 ## Loom walkthrough outline
 
@@ -33,7 +33,7 @@ Serve the contents of `dist/` as static files. For GitHub Pages, either select a
 
 ## Live demo
 
-https://little-paws-dubai.steelychord2.chatgpt.site/
+https://prashantpowar45.github.io/little-paws-dubai/
 
 ## Browser verification
 

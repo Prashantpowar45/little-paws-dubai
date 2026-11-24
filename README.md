@@ -34,3 +34,7 @@ Serve the contents of `dist/` as static files. For GitHub Pages, either select a
 ## Live demo
 
 https://little-paws-dubai.steelychord2.chatgpt.site/
+
+## Browser verification
+
+Verified combined breed and location filters, deep-linked status and reset, profile photo dialog, FAQ accordion, and the prefilled enquiry preview. Rechecked the filter reset on the deployed site.
